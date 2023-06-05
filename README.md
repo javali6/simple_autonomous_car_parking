@@ -1,1 +1,3 @@
-# simple_autonomous_car_parking
+# Uproszczona symulacja parkowania przez samochód autonomiczny
+
+![Cars](autka.png)
