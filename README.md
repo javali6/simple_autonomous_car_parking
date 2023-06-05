@@ -28,8 +28,14 @@ producenta silnika.
 - PyTorch
 - Mlagents
 
+## Uruchomienie
+Aby uruchomić środowisko należy pobrać to repozytorium, niezbędne będzie posiadanie
+Unity w wersji: 2019.3.5f1
+Po sklonowaniu repozytorium i uruchomieniu można projekt dowolnie edytować oraz uruchomić
+poprzez wciśnięcie przycisku start u góry ekranu.
+
 ## Trening
-Do wyuczenia modelu zostało wykorzystane **Uczenie przez wzmacianie** (ang. Reubfircent Learning).
+Do wyuczenia modelu zostało wykorzystane **Uczenie przez wzmacianie** (ang. Reinforcement Learning).
 W wirtualnym środowisku python konieczne jest zainstalowanie odpowiednich bibliotek aby możliwe było rozpoczęcie nauki.
 
 Zgodnie z dokumentacją narzędzi konieczne jest ustalenie parametrów konfiguracji: 
