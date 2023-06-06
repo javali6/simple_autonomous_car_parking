@@ -1,6 +1,6 @@
 # Uproszczona symulacja parkowania przez samochód autonomiczny
 
-![Cars](autka.png)
+![Cars](fury.png)
 
 ## Dokumentacja biblioteki Ml-Agents
 https://github.com/Unity-Technologies/ml-agents
