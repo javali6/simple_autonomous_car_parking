@@ -66,6 +66,16 @@ behaviors:
     threaded: true
 ```
 
+## Efekty
+
+Po wyuczeniu nadszedł czas na przetestowanie modelu
+Wykonano 340 powtórzeń
+w tym:
+301 poprawnych,
+39 błędnych.
+
+Na podstawie tych informacji możemy założyć, że szacunkowa skuteczność modelu wynosi: **~87%**.
+
 ## Czym jest Uczenie przez wzmacnianie? 
 
 Jest to jeden z trzech głównych nurtów uczenia maszynowego, którego zadaniem jest interakcja ze środowiskiem za pomocą 
