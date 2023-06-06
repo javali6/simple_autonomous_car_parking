@@ -68,7 +68,7 @@ behaviors:
 
 ## Efekty
 
-Po wyuczeniu nadszedł czas na przetestowanie modelu
+Po wyuczeniu nadszedł czas na przetestowanie modelu.
 Wykonano 340 powtórzeń
 w tym:
 301 poprawnych,
